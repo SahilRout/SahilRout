@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil Rout
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m a Full Stack Web developer I mostly work on ReactJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
